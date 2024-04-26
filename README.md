@@ -1,6 +1,5 @@
-# Phase 2 Project Description
+# House Sales in Northwestern County
 
-Another module down - you're almost half way there!
 
 ![housing](picture/house%20sale.jpg)
 
